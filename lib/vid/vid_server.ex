@@ -1,4 +1,4 @@
-defmodule States.Server do
+defmodule Vid.Server do
   use GenServer
   require VidStore
 
