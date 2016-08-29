@@ -1,8 +1,8 @@
-defmodule States.Mixfile do
+defmodule Vid.Mixfile do
   use Mix.Project
 
   def project do
-    [app:        :states,
+    [app:        :vid,
      escript:    escript_config(),
      version:    "0.1.0",
      name:       "Vid",
